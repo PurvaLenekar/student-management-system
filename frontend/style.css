@@ -1,0 +1,44 @@
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+    padding: 20px;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.form-container {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.student {
+    background: white;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.delete-btn {
+    background: red;
+    color: white;
+    border: none;
+}
